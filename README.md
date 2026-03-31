@@ -14,8 +14,8 @@
 
 <div align="center">
   <a href="https://github.com/prinsara">
-    <img width="390" src="https://github-readme-stats.vercel.app/api?username=prinsara&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark&bg_color=000000&hide_border=true" />
-    <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prinsara&layout=compact&langs_count=6&theme=github_dark&bg_color=000000&hide_border=true" />
+  <img width="390" src="https://my-readme-stats.vercel.app/api?username=prinsara&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark&bg_color=000000&hide_border=true" />
+  <img width="390" src="https://my-readme-stats.vercel.app/api/top-langs/?username=prinsara&layout=compact&langs_count=6&theme=github_dark&bg_color=000000&hide_border=true" />
   </a>
 </div>
 
